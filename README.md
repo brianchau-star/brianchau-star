@@ -1,6 +1,7 @@
 - 👋 Hi guys, I’m @brianchau-star. 
 - 🌱 I’m currently studying at Ho Chi Minh City University of Technology in Viet Nam, my major is Computer Science
 - 📫 Here's my email: nhatchau.forwork@gmail.com
+- ✨ My motto is "Work hard in silence, let success be my noise"
 
 <!---
 brianchau-star/brianchau-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
