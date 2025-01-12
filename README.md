@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi there, I'm Brian Chau 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="Animated GIF">
-</p>
-
 ## 🌱 About Me
 
 - 🎓 I'm currently studying **Computer Science** at **Ho Chi Minh City University of Technology**, Vietnam.
