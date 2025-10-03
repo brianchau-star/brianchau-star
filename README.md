@@ -2,7 +2,6 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br/>
-<br/>
 
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Brian+Chau;I'm+from+Ho+Chi+Minh+City;I'm+20+years-old;Welcome+to+my+profile!)
@@ -20,9 +19,14 @@
 <!-- 📄 &nbsp;Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions! -->
 <br>
 
+
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=brianchau-star&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
 </p>
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/nopainnogain1809?theme=unicorn&font=Baloo%20Chettan%202" alt="abc">
+</div>
 <!-- CONTACTO -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
