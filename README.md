@@ -9,7 +9,7 @@
 <!-- GIF HEADER
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif"> -->
 
-<p>🎓  I'm currently pursuing a degree in <strong>Computer Science</strong> at the <strong>Ho Chi Minh University of Technology</strong>, where I’m building a strong foundation in software engineering and system design.</p>
+<p>🎓  I'm currently pursuing a degree in <strong>Computer Science</strong> at the <strong>Ho Chi Minh University of Technology</strong>, where I’m building a strong foundation in software engineering.</p>
 
 <p>💻  I'm a passionate software developer and an active member of the <a href="https://github.com/fessior">Fessior Community</a>, a part of <strong>Google Developer Groups on Campus – Ho Chi Minh University of Technology</strong>.</p>
 
