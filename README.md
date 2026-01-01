@@ -17,10 +17,6 @@
 <!-- 📄 &nbsp;Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions! -->
 <br>
 
-
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=brianchau-star&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
-</p>
 <!-- CONTACTO -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
